@@ -10,10 +10,10 @@ function AboutSection() {
                 <h2 className='name'>David.</h2>
             </div>
             <div>
-                <h3 className='my-work'>I'm a web developer.</h3>
+                <h3 className='my-work'>I like to build things in the internet.</h3>
             </div>
-            <div>
-                <p>Add text...</p>
+            <div className='text-first-section'>
+                <p>I'm a web developer specializing in ReactJs and Swift.</p>
             </div>
         </section>
     )
