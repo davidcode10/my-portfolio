@@ -1,4 +1,4 @@
-import './AboutSection.css'
+import './FirstSection.css'
 
 function AboutSection() {
     return (

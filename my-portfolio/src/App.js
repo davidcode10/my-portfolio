@@ -1,5 +1,5 @@
 import NavBar from "./components/header/navbar"
-import AboutSection from "./components/page/AboutSection/AboutSection"
+import FirstSection from "./components/page/FirstSection/FirstSection"
 import './App.css'
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
         <NavBar />
       </div>
       <div>
-        <AboutSection />
+        <FirstSection />
       </div>
     </>
   )
