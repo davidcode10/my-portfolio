@@ -1,0 +1,28 @@
+.About-Section {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0px auto;
+    min-height: 100vh;
+    max-width: 1000px;
+}
+
+.cheers {
+    color: #64ffda;
+}
+
+.name {
+    margin: 0px;
+    font-size: clamp(40px, 8vw, 80px);
+    font-weight: 600;
+    line-height: 1.1;
+    color: #ccd6f6;
+}
+
+.my-work {
+    margin: 0px;
+    font-size: clamp(40px, 8vw, 80px);
+    font-weight: 600;
+    line-height: 1.1;
+    color: #a3a9bd;
+}
