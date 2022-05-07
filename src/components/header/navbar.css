@@ -10,13 +10,15 @@
 }
 
 header {
-    padding: 0px 50px;
+    padding: 0px 40px;
+    display: flex;
 }
 
 nav {
     display: flex;
     justify-content: space-between;
     width: 100%;
+    align-items: center;
 }
 
 .nav-list li {
